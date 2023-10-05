@@ -34,5 +34,7 @@ https://www.npmjs.com/package/selenium-webdriver
 
 npx jest nombredelarchivo.test.js
 
+Archivo de ejemplo: search_terrm_Friendly.test.js
+
 Existe un archivo de Configuracion: config.js
 
