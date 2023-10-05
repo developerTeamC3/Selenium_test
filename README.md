@@ -33,5 +33,6 @@ https://www.npmjs.com/package/selenium-webdriver
 ## Ejecutando las pruebas ⚙️
 
 npx jest nombredelarchivo.test.js
+
 Existe un archivo de Configuracion: config.js
 
