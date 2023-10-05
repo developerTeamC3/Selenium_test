@@ -1,0 +1,16 @@
+{
+    "browser": "firefox",
+    "headless": true,
+    "searchTerm": "ropa de mujer",
+    "urlProd": "https://www.elpalaciodehierro.com",
+    "urlDev": "https://storefront:3P11D9H@dev.elpalaciodehierro.com",
+    "urlDemo": "https://bdkb-027.sandbox.us01.dx.commercecloud.salesforce.com/s/palacio-MX/home",
+    "brand": "MICHALE KORS",
+    "urlLoguin": "https://bdkb-027.dx.commercecloud.salesforce.com/s/palacio-MX/login",
+    "urlLoguinDev": "https://storefront:3P11D9H@dev.elpalaciodehierro.com/login",
+    "mailDemoSinCompra": "german.mendoza72@gmail.com",
+    "passDemoSinCompra": "Pochoclo88",
+    "mailDemoConCompra": "conradogerman.mendoza@nttdata.com",
+    "passDemoConCompra": "Pochoclo88",
+    "seleniumGridUrl": "https://4444-seleniumhq-dockerseleni-0mq3svh89j5.ws-us98.gitpod.io/"
+}
